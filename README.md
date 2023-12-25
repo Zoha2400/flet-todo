@@ -23,9 +23,9 @@ Flet Pyrthon Todo App is a simple and lightweight Python-based todo application.
 3. Install the required dependencies (sooner I'll add Linux, Windows, MacOS versions)
 
    ```console
-   git clone https://github.com/your-username/flet-pyrthon-todo-app.git
-   cd flet-pyrthon-todo-app
-   pip install -r requirements.txt
+   git clone https://github.com/Zoha2400/flet-todo
+   cd flet-pyrthon-weather-app
+   pip install 
    ```
 
 ## Usage
